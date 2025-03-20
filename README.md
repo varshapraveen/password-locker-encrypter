@@ -24,4 +24,4 @@ implementing multi-factor authentication for added security, enabling cloud sync
 and developing a browser extension for auto-filling credentials.
 
 Contributors
-This project was developed by Varsha Praveen. Contributions and feedback are welcome to improve the functionality and security of the application.
+This project was developed by Varsha Praveen. A major thanks to Mr. Noor Ahmed, for providing the base for this project on github. Contributions and feedback are welcome to improve the functionality and security of the application. A major thanks to Noor Ahmed, for providing the base for this project on github.
